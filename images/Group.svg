@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="112px" viewBox="0 0 120 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#52BCA6">
+            <rect id="Rectangle-path" x="99" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="91" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="83" y="56" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="31" y="64" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="23" y="64" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="15" y="64" width="4" height="4"></rect>
+            <path d="M54,50.4176441 L49.89309,50.4176441 L49.89309,42.7470678 L22.482399,42.7470678 L20.5580183,37 L0,37 L0,50.4176441 L0,54.2412035 L0,83 L49.6349413,83 L54,50.4176441 Z M3.82529335,40.8235594 L17.7887875,40.8235594 L19.7131682,46.5706272 L46.0443286,46.5706272 L46.0443286,50.3941866 L3.82529335,50.3941866 L3.82529335,40.8235594 Z M46.2790091,79.1764406 L3.82529335,79.1764406 L3.82529335,54.2412035 L49.5880052,54.2412035 L46.2790091,79.1764406 Z" id="Shape"></path>
+            <path d="M115.891304,42.4176441 L115.891304,34.7470678 L88.4921739,34.7470678 L86.5669565,29 L66,29 L66,42.4176441 L66,46.2412035 L66,75 L115.656522,75 L120,42.3941866 L115.891304,42.3941866 L115.891304,42.4176441 Z M69.8269565,32.8235594 L83.7965217,32.8235594 L85.7217391,38.5706272 L112.064348,38.5706272 L112.064348,42.3941866 L69.8269565,42.3941866 L69.8269565,32.8235594 Z M112.29913,71.1764406 L69.8269565,71.1764406 L69.8269565,46.2412035 L115.609565,46.2412035 L112.29913,71.1764406 Z" id="Shape"></path>
+            <polygon id="Shape" points="88.1445783 108.106475 24.7416985 108.106475 24.7416985 96.6158273 31.2300911 101.86259 33.6279753 98.823741 22.8139877 90.1107914 12 98.823741 14.3978842 101.86259 20.8862768 96.6158273 20.8862768 112 92 112 92 79 88.1445783 79"></polygon>
+            <polygon id="Shape" points="18.831913 3.89352518 82.2583015 3.89352518 82.2583015 15.3841727 75.7699089 10.1374101 73.3720247 13.176259 84.1860123 21.8892086 95 13.176259 92.6021158 10.1374101 86.1137232 15.3841727 86.1137232 0 15 0 15 33 18.831913 33"></polygon>
+            <rect id="Rectangle-path" x="25" y="10" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="33" y="10" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="41" y="10" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="64" y="99" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="71" y="99" width="4" height="4"></rect>
+            <rect id="Rectangle-path" x="79" y="99" width="4" height="4"></rect>
+        </g>
+    </g>
+</svg>

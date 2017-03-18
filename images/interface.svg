@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="90px" viewBox="0 0 120 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>interface</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="interface" fill="#52BCA6">
+            <path d="M0,0 L0,27 L0,90 L120,90 L120,27 L120,0 L0,0 Z M117.6,87.6 L2.4,87.6 L2.4,27 L117.6,27 L117.6,87.6 Z M117.6,24.6 L2.4,24.6 L2.4,2.4 L117.6,2.4 L117.6,24.6 Z" id="Shape"></path>
+            <rect id="Rectangle-path" x="30" y="42" width="15" height="2"></rect>
+            <rect id="Rectangle-path" x="30" y="54" width="15" height="2"></rect>
+            <rect id="Rectangle-path" x="30" y="66" width="15" height="2"></rect>
+            <rect id="Rectangle-path" x="24" y="66" width="2" height="2"></rect>
+            <rect id="Rectangle-path" x="24" y="54" width="2" height="2"></rect>
+            <rect id="Rectangle-path" x="24" y="42" width="2" height="2"></rect>
+            <rect id="Rectangle-path" x="21" y="16" width="48" height="2"></rect>
+            <rect id="Rectangle-path" x="21" y="10" width="78" height="2"></rect>
+            <path d="M81,48 C83.0688,48 84.8076,46.602 85.3332,44.7 L96,44.7 L96,42.3 L85.3332,42.3 C84.8076,40.398 83.0688,39 81,39 C78.9312,39 77.1924,40.398 76.6668,42.3 L51,42.3 L51,44.7 L76.6668,44.7 C77.1924,46.602 78.9312,48 81,48 Z M81,41.4 C82.158,41.4 83.1,42.342 83.1,43.5 C83.1,44.658 82.158,45.6 81,45.6 C79.842,45.6 78.9,44.658 78.9,43.5 C78.9,42.342 79.842,41.4 81,41.4 Z" id="Shape"></path>
+            <path d="M66,60 C68.0688,60 69.8076,58.602 70.3332,56.7 L96,56.7 L96,54.3 L70.3332,54.3 C69.8076,52.398 68.0688,51 66,51 C63.9312,51 62.1924,52.398 61.6668,54.3 L51,54.3 L51,56.7 L61.6668,56.7 C62.1924,58.602 63.9312,60 66,60 Z M66,53.4 C67.158,53.4 68.1,54.342 68.1,55.5 C68.1,56.658 67.158,57.6 66,57.6 C64.842,57.6 63.9,56.658 63.9,55.5 C63.9,54.342 64.842,53.4 66,53.4 Z" id="Shape"></path>
+            <path d="M84,72 C86.0688,72 87.8076,70.602 88.3332,68.7 L96,68.7 L96,66.3 L88.3332,66.3 C87.8076,64.398 86.0688,63 84,63 C81.9312,63 80.1924,64.398 79.6668,66.3 L51,66.3 L51,68.7 L79.6668,68.7 C80.1924,70.602 81.9312,72 84,72 Z M84,65.4 C85.158,65.4 86.1,66.342 86.1,67.5 C86.1,68.658 85.158,69.6 84,69.6 C82.842,69.6 81.9,68.658 81.9,67.5 C81.9,66.342 82.842,65.4 84,65.4 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
